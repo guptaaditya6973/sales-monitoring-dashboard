@@ -19,6 +19,5 @@ Region-wise and category-wise sales insights
 Customer behavior and product performance analysis
 Clean, professional data visualization for business reporting.
 
-6. Screenshot/Demo :
-The dashboard looks like:. 
-https://github.com/guptaaditya6973/sales-monitoring-dashboard/blob/main/Performance%20dashboard.png
+6.Screenshot/Demo :
+The dashboard looks like:https://github.com/guptaaditya6973/sales-monitoring-dashboard/blob/main/Performance%20dashboard.png
